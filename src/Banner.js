@@ -23,7 +23,7 @@ function Banner() {
   }, []);
 
   const opts = {
-    height: "450%",
+    height: "480px",
     width: "100%",
     playerVars: {
       autoplay: 1,

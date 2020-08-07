@@ -1,6 +1,6 @@
 import axios from "axios";
 
-/*Base url to make requests the tmdb*/
+/*Base url to make requests to tmdb*/
 
 const instance = axios.create({
   baseURL: "https://api.themoviedb.org/3",

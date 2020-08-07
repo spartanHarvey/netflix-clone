@@ -1,7 +1,7 @@
 .banner {
   color: white;
   object-fit: contain;
-  height: 448px;
+  overflow: hidden;
 }
 .banner_contents {
   margin-left: 30px;
